@@ -52,6 +52,4 @@ ________________________
 __________________________________________________
 Everything else after 8. is the same as android.
 
-<iframe frameborder="0" src="https://itch.io/embed/4809145?linkback=true" width="552" height="167"><a href="https://eminent-ninja735.itch.io/frutigeraero">Aero Dash (Geometry Dash Texture Pack) by Eminent_Ninja735</a></iframe>
-
 
