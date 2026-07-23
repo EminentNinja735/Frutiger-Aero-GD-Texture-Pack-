@@ -1,4 +1,4 @@
-<h1> $${\color{blue}# Frutiger Aero (GD Texture Pack)}$$   </h1>
+<h1> $${\color{blue}Frutiger Aero (GD Texture Pack)}$$   </h1>
 This is Frutiger Aero Dash, 
 a texture pack made by ZapherGD. 
 This pack was, reworked, and fixed by me. 
