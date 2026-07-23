@@ -3,7 +3,6 @@ This is Frutiger Aero Dash, a texture pack made by ZapherGD. This pack was, rewo
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 # Install instructions
-_______________________________
 1. Dowload Geode if you don't already have it.
 
 2. Dowload the Happy Textures Mod, and the Texture Loader Mod.
