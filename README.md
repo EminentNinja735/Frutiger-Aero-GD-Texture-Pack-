@@ -6,7 +6,7 @@ All credits go to Zapher, and Chessdash543, for making this even possible!
 If you install the menu loop you have to put it above everything for it to work. 
 same with the normal packs (obv) 
 # also don't mess with the pack without permission pls
-__________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________
 # Install instructions
 1. Dowload Geode if you don't already have it.
 
